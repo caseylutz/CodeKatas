@@ -33,7 +33,7 @@ A leap year is:
 
 B.C. and 1<sup>st</sup> Century A.D. Leap Years did not follow the pattern above. Extend your `LeapYear.IsLeapYear(int)` method to correctly identify these Leap Years using the details below. Use negative numbers to indicate BCE years.
 
-> The leap year was introduced in the Julian calendar in 46 BC. However, around 10 BC, it was found that the priests in charge of computing the calendar had been adding leap years every three years instead of the four decreed by Caesar (Vardi 1991, p. 239). As a result of this error, no more leap years were added until 8 AD. 
+> The leap year was introduced in the Julian calendar in 46 BC (the first leap year being 45 BC). However, around 10 BC, it was found that the priests in charge of computing the calendar had been adding leap years every three years instead of the four decreed by Caesar (Vardi 1991, p. 239). As a result of this error, no more leap years were added until 8 AD. 
 > 
 > --<cite>[Eric Weisstein's World of Astronomy](http://scienceworld.wolfram.com/astronomy/LeapYear.html)</cite>
 
