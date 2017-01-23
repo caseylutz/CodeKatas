@@ -41,17 +41,17 @@ namespace IncomeTax.Tests
         }
 
         [TestMethod]
-        public void Income_Of_20000_Returns_2554()
+        public void Income_Of_20000_Returns_2585()
         {
             int result = _incomeTax.CalculateTax(20000);
-            Assert.AreEqual(2554, result);
+            Assert.AreEqual(2585, result);
         }
 
         [TestMethod]
-        public void Income_Of_450000_Returns_135964()
+        public void Income_Of_450000_Returns_137904()
         {
             int result = _incomeTax.CalculateTax(450000);
-            Assert.AreEqual(135964, result);
+            Assert.AreEqual(137904, result);
         }
     }
 }
