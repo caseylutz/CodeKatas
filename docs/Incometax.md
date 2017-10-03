@@ -13,11 +13,10 @@ The 2013 tax owed for a person filing as Single is:
 |under $8295 | 10%|
 |under $36,250| 15%|
 |under $87,850| 25%|
-|under $87850| 28%|
 |under $183,250|30%|
 |under $398,350|33%|
 |under $400,000|35%|
-|over $400,001|39.6%|
+|over $400,000|39.6%|
 
 The tax is *progressive*, in that *only the portion of income that falls into a certain bracket is only taxed at that bracket's rate*.
 
