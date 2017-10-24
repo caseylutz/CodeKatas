@@ -15,7 +15,7 @@ You will need to modify the Check() function in FizzBuzz project to implement th
 1. If the value is divisible by (3) three return Fizz
 1. If the value is divisible by (5) five return Buzz
 1. If the value is divisible by both three and five FizzBuzz
-1. All all values should return the original value 
+1. All other values should return the original value 
 
 ## Test Cases ##
 
